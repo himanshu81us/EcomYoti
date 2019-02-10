@@ -1,0 +1,15 @@
+{
+  "name": "uitest",
+  "version": "1.0.0",
+  "description": "ecom ui test",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^5.4.2",
+    "jasmine": "^3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "himanshu",
+  "license": "ISC"
+}
