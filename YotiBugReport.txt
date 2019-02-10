@@ -1,0 +1,211 @@
+BUG REPORT -
+Project Name: Testing E-commerce application
+Created By: Himanshu Patel
+Date Created : 10/02/2019
+
+
+
+1/
+* Defect Description: Promotional link is not working.
+
+* STEPS-
+- I launch url as  "http://automationpractice.com/index.php"
+- I clicked on Promotional link [GET SAVING NOW]
+_ I could not see page redirecting to promotional product page
+
+
+Expected Results: 
+When I click Promotional link 
+Then I should see page redirecting to promotional product page
+
+
+Actual Results: 
+Page is not redirecting 
+
+Browser: Chrome
+Operating System: Windows
+Environment: QA.
+Screenshot: N/A 
+Severity: P1
+
+
+2/
+* Defect Description: Call us now button on home page is not clearly visible
+
+*Steps-
+- I launch url as  "http://automationpractice.com/index.php" 
+- i could see call us now text is not clearly visible 
+
+Expected Results:
+When i launch URL as "http://automationpractice.com/index.php"
+i should see call us now text clearly visible
+
+Actual Results: Call us now text is not clearly visible
+
+Browser: Chrome
+Operating System: Windows
+Environment: QA.
+Screenshot: N/A 
+Severity: P5
+
+3/
+* Defect Description: SHOP NOW form/link on home page is not in english
+*Steps-
+- I launch url as  "http://automationpractice.com/index.php" 
+- I could see  SHOP NOW form/link on home page is in language other then english
+
+Expected Results:
+When i launch URL as "http://automationpractice.com/index.php"
+i should see SHOP NOW form/link is in english.
+Actual Results: SHOP NOW form/link is not in enlish language
+
+Browser: Chrome
+Operating System: Windows
+Environment: QA.
+Screenshot: N/A 
+Severity: P1
+
+4/ 
+* Defect Description: Sale upto 25% off link is not working.
+
+* STEPS-
+- I launch url as  "http://automationpractice.com/index.php"
+- I clicked Sale upto 25% off link
+_ I could see page is redirected to third party web "https://www.prestashop.com/en"
+
+
+Expected Results: 
+When I click Sale upto 25% off link 
+Then I should see page redirecting to relevent product page
+
+
+Actual Results: 
+page is redirected to third party web "https://www.prestashop.com/en"
+
+Browser: Chrome
+Operating System: Windows
+Environment: QA.
+Screenshot: N/A 
+Severity: P1
+
+5/
+* Defect Description: Summer collection 45% off link is not working.
+
+* STEPS-
+- I launch url as  "http://automationpractice.com/index.php"
+- I clicked Summer collection 45% off link
+_ I could see page is redirected to third party web "https://www.prestashop.com/en"
+
+
+Expected Results: 
+When i clikc Summer collection 45% offlink 
+Then I should see page redirecting to relevent product page
+
+
+Actual Results: 
+page is redirected to third party web "https://www.prestashop.com/en"
+
+Browser: Chrome
+Operating System: Windows
+Environment: QA.
+Screenshot: N/A 
+Severity: P1
+
+6/
+ * Defect Description: Prodcut search field is not working correctly if search by 'DRESSES' .
+
+* STEPS-
+- I launch url as  "http://automationpractice.com/index.php"
+- I enter 'DRESSES' in product search field.
+_ I could see T-shirt along with Dresses in the product page
+
+
+Expected Results: 
+When I enter 'DRESSES' in the search field
+And i press enter button
+Then I should see only 'DRESSES' only in the product page.
+
+
+Actual Results: 
+Product page saws 'DRESSES' and 'T-SHIRT'
+
+Browser: Chrome
+Operating System: Windows
+Environment: QA.
+Screenshot: N/A 
+Severity: P2
+
+7/
+ * Defect Description: Missing FaceBook logo on the home page.
+
+* STEPS-
+- I launch url as  "http://automationpractice.com/index.php"
+_ I couldn't see FaceBook logo on the bottom left of the home page [under Follow us on face book text]
+
+
+Expected Results: 
+When  I launch url as  "http://automationpractice.com/index.php"
+Then I should FaceBook logo on the bottom left of the home page [under Follow us on face book text]
+
+
+Actual Results: 
+Thre is no FaceBook logo on the bottom left of the home page [under Follow us on face book text]
+
+Browser: Chrome
+Operating System: Windows
+Environment: QA.
+Screenshot: N/A 
+Severity: P5
+
+
+8/
+* Defect Description: Call us link on the home page is not working 
+
+* STEPS-
+- I launch url as  "http://automationpractice.com/index.php"
+_ When i click on call us now link 
+- It redirect to  'http://www.seleniumframework.com/'
+
+
+Expected Results: 
+When click on call us now link 
+Then I should redirect to contact us page/contact no.
+
+
+Actual Results:
+page redirect to  'http://www.seleniumframework.com/' after clicking call us now link
+
+
+Browser: Chrome
+Operating System: Windows
+Environment: QA.
+Screenshot: N/A 
+Severity: P3
+
+9/
+* Defect Description:How to pay dues button is not working 
+
+* STEPS-
+- I launch url as  "http://automationpractice.com/index.php"
+_ When i click how to pay dues button on home page
+- I could see How to pay dues button is disabled/not working  
+
+
+Expected Results: 
+When  I launch url as  "http://automationpractice.com/index.php"
+And i click on pay us dues button on home page
+I should redirect to payment page
+
+
+
+Actual Results: 
+How to pay dues button is disabled/not working 
+
+Browser: Chrome
+Operating System: Windows
+Environment: QA.
+Screenshot: N/A 
+Severity: P1
+
+
+
